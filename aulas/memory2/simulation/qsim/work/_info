@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\levyg\Documents\MEGA\Repositories\TopicosEmSistemasDigitais\aulas\memory2\simulation\qsim
+vmemory2
+Z1 Ii3;?oV=Hfa8cX26W3TESK2
+Z2 V3I80`7m3S:`DQIBS6ea7I0
+Z3 dC:\Users\levyg\Documents\MEGA\Repositories\TopicosEmSistemasDigitais\aulas\memory2\simulation\qsim
+Z4 w1650327446
+Z5 8memory2.vo
+Z6 Fmemory2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|memory2.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 Z;cMGbAze][aM0PBOOzZ01
+!s85 0
+Z11 !s108 1650327447.745000
+Z12 !s107 memory2.vo|
+!s101 -O0
+vmemory2_vlg_check_tst
+!i10b 1
+Z13 !s100 Uk3`g1V5gYc7k^b=z]>D73
+Z14 IBPfFZTz9lceCIY[WlZb=D2
+Z15 VH1g8JK8c5M>;MEl``fGLa0
+R3
+Z16 w1650327445
+Z17 8memory2.vt
+Z18 Fmemory2.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z19 !s108 1650327448.649000
+Z20 !s107 memory2.vt|
+Z21 !s90 -work|work|memory2.vt|
+!s101 -O0
+R9
+vmemory2_vlg_sample_tst
+!i10b 1
+Z22 !s100 :c>heQ:RL=o2F@ZV2dT[d3
+Z23 I=A;VYGVj]Wza^g:I3`LMh3
+Z24 V[bSV>SfKLdTRLGcocR8aL2
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vmemory2_vlg_vec_tst
+!i10b 1
+Z25 !s100 nbo4?nb=VzN3ne3kzLT2C1
+Z26 ICGnhM6J7T?ThUPb[9c8hZ0
+Z27 VSHP=b>nD:W268e40N<6P;0
+R3
+R16
+R17
+R18
+Z28 L0 283
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

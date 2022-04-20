@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (Verilog)"
+set corner_file_list {
+	{{"Slow Model"} {address_decoder.vo address_decoder_v.sdo}}
+	{{"Fast Model"} {address_decoder_fast.vo address_decoder_v_fast.sdo}}
+}

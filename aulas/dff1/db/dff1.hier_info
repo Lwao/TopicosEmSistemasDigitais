@@ -1,0 +1,7 @@
+|dff1
+clr => q~reg0.ACLR
+d => q~reg0.DATAIN
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
