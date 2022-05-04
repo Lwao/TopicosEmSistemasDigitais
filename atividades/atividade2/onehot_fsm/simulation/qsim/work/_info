@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\levyg\Documents\MEGA\Repositories\TopicosEmSistemasDigitais\atividades\atividade2\onehot_fsm\simulation\qsim
+vonehot_fsm
+Z1 IK4@zTG9ajUD>gAik3E?YK1
+Z2 ViWlJ7j_knmRIMT`T=I=670
+Z3 dC:\Users\levyg\Documents\MEGA\Repositories\TopicosEmSistemasDigitais\atividades\atividade2\onehot_fsm\simulation\qsim
+Z4 w1651618307
+Z5 8onehot_fsm.vo
+Z6 Fonehot_fsm.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|onehot_fsm.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 ol[ddR>LAUQUQ]DXSgbX=0
+!s85 0
+Z11 !s108 1651618309.192000
+Z12 !s107 onehot_fsm.vo|
+!s101 -O0
+vonehot_fsm_vlg_check_tst
+!i10b 1
+Z13 !s100 4V<RfR^?ffch:_n9__3NA0
+Z14 I>OY7D?OcTOV32SHN;DCTP2
+Z15 Vlkeez4IbCiS41R79C^=4c0
+R3
+Z16 w1651618304
+Z17 8onehot_fsm.vt
+Z18 Fonehot_fsm.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z19 !s108 1651618310.055000
+Z20 !s107 onehot_fsm.vt|
+Z21 !s90 -work|work|onehot_fsm.vt|
+!s101 -O0
+R9
+vonehot_fsm_vlg_sample_tst
+!i10b 1
+Z22 !s100 929RE]z^Y4I1lIVbZDR1O3
+Z23 IbMN;4EzJ2=lgb@b^G_]G`2
+Z24 V=<^ncEe=fdo`BM6Hh5N6J0
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vonehot_fsm_vlg_vec_tst
+!i10b 1
+Z25 !s100 ER]j1DE]0PcRBYB@5_:@z0
+Z26 I1gdD1[VaZmT_L3Q=@Q4HJ1
+Z27 VDdkLFzm7@7d02?zl>b8^l3
+R3
+R16
+R17
+R18
+Z28 L0 324
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
