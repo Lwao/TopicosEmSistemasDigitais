@@ -32,7 +32,9 @@ architecture rtl of onehot_fsm is
 
 	-- Attribute to declare a specific encoding for the states
 	attribute syn_encoding				    : string;
-	attribute syn_encoding of state_type : type is "gray, safe";
+	attribute syn_encoding of state_type : type is "one-hot, safe";
+	
+	constant one : unsigned (8 downto 0) := "000000001";
 	
 begin
 	-- Determine what the next state will be, and set the output bits
@@ -90,5 +92,6 @@ begin
 		end case;
 	end process;
 
-	Y <= std_logic_vector(to_unsigned(state_type'pos(state), Y'length));
+	--Y <= std_logic_vector(to_unsigned(state_type'pos(state), Y'length));
+	Y <= std_logic_vector(shift_left(one, to_integer(to_unsigned(state_type'pos(state), Y'length))));
 end rtl;
