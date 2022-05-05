@@ -39,11 +39,11 @@ architecture rtl of onehot_fsm is
 begin
 	-- Determine what the next state will be, and set the output bits
 	-- Logic to advance to the next state
-	process (CLK, RST)
+	process (CLK)
 	begin
-		if RST = '0' then
+		if RST = '0' and rising_edge(CLK) then
 			state <= A;
-		elsif (rising_edge(CLK)) then
+		elsif RST='1' and rising_edge(CLK) then
 			case state is
 				when A => 
 					if W='1' then state <= F;
