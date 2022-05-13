@@ -37,8 +37,8 @@ begin
 	SUM: Adder      port map (X, Y, ZSUM, CSUM, VSUM);
 	SUB: Subtractor port map (X, Y, ZSUb, CSUB, VSUB);
 	
-	Z <= ZSUM WHEN MUX='0' ELSE
-		  ZSUB WHEN MUX='1' ELSE
+	Z <= ZSUM WHEN MUX='0' ELSE -- 0 for sum
+		  ZSUB WHEN MUX='1' ELSE -- 1 for sub
 		  (OTHERS=>'Z');
 				  
 END Behavior;
