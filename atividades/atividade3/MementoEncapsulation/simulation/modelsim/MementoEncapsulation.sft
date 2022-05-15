@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (VHDL)"
+set corner_file_list {
+	{{"Slow Model"} {MementoEncapsulation.vho MementoEncapsulation_vhd.sdo}}
+	{{"Fast Model"} {MementoEncapsulation_fast.vho MementoEncapsulation_vhd_fast.sdo}}
+}
